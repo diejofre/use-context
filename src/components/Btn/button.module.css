@@ -1,0 +1,18 @@
+.flexBtn{
+    display: flex;
+    justify-content: center;
+}
+
+.btnLight {
+    background-color: #222;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btnDark {
+    background-color: #fff;
+    color: #222;
+    font-size: 16px;
+    cursor: pointer;
+}
